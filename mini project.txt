@@ -1,0 +1,17 @@
+Incident Form
+     ↓
+Caller selected
+     ↓
+Client Script
+     ↓
+Caller information updated
+     ↓
+Impact + Urgency checked
+     ↓
+UI Policy
+     ↓
+Assignment Group / Priority rules applied
+     ↓
+Submit
+     ↓
+Client-side validation

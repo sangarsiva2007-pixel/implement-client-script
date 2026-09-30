@@ -1,0 +1,3 @@
+Impact is 1 - High
+AND
+Urgency is 1 - High
